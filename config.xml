@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "annunci.artigianidigitali.edu.mit.scratch"
+        id          = "drummachine.artigianidigitali.edu.mit.scratch"
         versionCode = "10" 
         version     = "1.0.0" >
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Annunci Ferroviari</name>
+    <name>Webcam Drum Machine</name>
 
     <description>
-        Un'applicazione per il teatro
+        Un'applicazione la musica
     </description>
 
     <author href="http://scratch.mit.edu/users/artigianidigitali" email="nicola.gencarelli@gmail.com">
